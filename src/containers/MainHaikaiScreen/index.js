@@ -20,6 +20,15 @@ const useStyles = makeStyles({
 export default function MainHaikaiScreen() {
   const classes = useStyles();
   const [haikai, setHaikai] = useState(0)
+  const [seconds, setSeconds] = useState(0);
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setSeconds(seconds => seconds + 1);
+      setHaikai(chooseHaikai())
+    }, 6000);
+    return () => clearInterval(interval);
+  }, []);
 
   const chooseHaikai = () => {
     const max = haikaiData.length - 1;
@@ -27,12 +36,6 @@ export default function MainHaikaiScreen() {
     let selected = Math.floor(Math.random() * (max - min)) + min;
     return selected
   };
-
-  useEffect(() => {
-    let num = chooseHaikai()
-    setHaikai(num)
-    console.log("num: " + num)
-  }, haikai)
 
   return (
     <>

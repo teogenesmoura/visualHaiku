@@ -22,7 +22,7 @@ const useStyles = makeStyles((theme) => ({
   typography: {
     color: 'white',
     fontSize: 'x-large',
-    fontFamily: 'Open Sans',
+    fontFamily: "EB Garamond, serif",
     alignSelf: 'center',
   },
   overlay: {
@@ -68,7 +68,8 @@ export default function Haikai(props){
             className={classes.sentenceContainer}
             style={{
                     backgroundImage: `url(${images[selectRandomImage()]})`,
-                    backgroundSize: '100%'}}>
+                    backgroundSize: '100%',
+                    backgroundPosition: 'center'}}>
                     <div className={classes.overlay}>
                       <Typography className={classes.typography}>{data.first_sentence} </Typography>
                     </div>
@@ -76,7 +77,8 @@ export default function Haikai(props){
       <Grid item
             className={classes.sentenceContainer}
             style={{backgroundImage: `url(${images[selectRandomImage()]})`,
-                    backgroundSize: '100%'}}>
+                    backgroundSize: '100%',
+                    backgroundPosition: 'center'}}>
             <div className={classes.overlay}>
               <Typography className={classes.typography}>{data.second_sentence} </Typography>
             </div>
@@ -84,7 +86,8 @@ export default function Haikai(props){
       <Grid item
             className={classes.sentenceContainer}
             style={{backgroundImage: `url(${images[selectRandomImage()]})`,
-                    backgroundSize: '100%'}}>
+                    backgroundSize: '100%',
+                    backgroundPosition: 'center'}}>
                     <div className={classes.overlay}>
                       <Typography className={classes.typography}>{data.third_sentence} </Typography>
                     </div>

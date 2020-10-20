@@ -13,5 +13,10 @@ module.exports = Object.freeze([
     "first_sentence": "Vulcão em erupção",
     "second_sentence": "Céu cinzento",
     "third_sentence": "Amor",
-  },]
+  },
+  {
+    "first_sentence": "Tremor no chão",
+    "second_sentence": "Ação e reação",
+    "third_sentence": "Paz",
+  }]
 )
