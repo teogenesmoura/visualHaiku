@@ -19,21 +19,27 @@ const useStyles = makeStyles({
 
 export default function MainHaikaiScreen() {
   const classes = useStyles();
+  const [haikai, setHaikai] = useState(0)
 
   const chooseHaikai = () => {
-    console.log('test')
+    const max = haikaiData.length - 1;
+    const min = 0
+    let selected = Math.floor(Math.random() * (max - min)) + min;
+    return selected
   };
 
   useEffect(() => {
-    chooseHaikai()
-  })
+    let num = chooseHaikai()
+    setHaikai(num)
+    console.log("num: " + num)
+  }, haikai)
 
   return (
     <>
       <Fade in timeout={3000}>
         <div className={classes.body}>
           <Grid container className={classes.container}>
-            {haikaiData.map(haikaiData => <Haikai data={haikaiData} />)}
+            <Haikai data={haikaiData[haikai]} />
           </Grid>
         </div>
       </Fade>
