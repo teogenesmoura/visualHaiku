@@ -6,7 +6,6 @@ import Haikai from './../../components/haikai';
 const useStyles = makeStyles({
   body: {
     height: '100vh',
-    fontFamily: 'EB Garamond, serif',
     display: 'flex'
   },
   container: {
