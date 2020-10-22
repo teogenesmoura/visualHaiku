@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/teogenesmoura/visualHaiku/precache-manifest.7e91a165fc575d6741c21781a654daae.js"
+  "/teogenesmoura/visualHaiku/precache-manifest.463cfcf509dbec55501033960cf0700d.js"
 );
 
 self.addEventListener('message', (event) => {

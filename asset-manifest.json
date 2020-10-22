@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/teogenesmoura/visualHaiku/static/css/main.5f361e03.chunk.css",
-    "main.js": "/teogenesmoura/visualHaiku/static/js/main.a01e4069.chunk.js",
-    "main.js.map": "/teogenesmoura/visualHaiku/static/js/main.a01e4069.chunk.js.map",
+    "main.js": "/teogenesmoura/visualHaiku/static/js/main.6a8638b2.chunk.js",
+    "main.js.map": "/teogenesmoura/visualHaiku/static/js/main.6a8638b2.chunk.js.map",
     "runtime-main.js": "/teogenesmoura/visualHaiku/static/js/runtime-main.50db37cd.js",
     "runtime-main.js.map": "/teogenesmoura/visualHaiku/static/js/runtime-main.50db37cd.js.map",
     "static/js/2.b78f6dcf.chunk.js": "/teogenesmoura/visualHaiku/static/js/2.b78f6dcf.chunk.js",
     "static/js/2.b78f6dcf.chunk.js.map": "/teogenesmoura/visualHaiku/static/js/2.b78f6dcf.chunk.js.map",
     "index.html": "/teogenesmoura/visualHaiku/index.html",
-    "precache-manifest.7e91a165fc575d6741c21781a654daae.js": "/teogenesmoura/visualHaiku/precache-manifest.7e91a165fc575d6741c21781a654daae.js",
+    "precache-manifest.463cfcf509dbec55501033960cf0700d.js": "/teogenesmoura/visualHaiku/precache-manifest.463cfcf509dbec55501033960cf0700d.js",
     "service-worker.js": "/teogenesmoura/visualHaiku/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/teogenesmoura/visualHaiku/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.b78f6dcf.chunk.js.LICENSE.txt": "/teogenesmoura/visualHaiku/static/js/2.b78f6dcf.chunk.js.LICENSE.txt",
@@ -34,6 +34,6 @@
     "static/js/runtime-main.50db37cd.js",
     "static/js/2.b78f6dcf.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.a01e4069.chunk.js"
+    "static/js/main.6a8638b2.chunk.js"
   ]
 }
