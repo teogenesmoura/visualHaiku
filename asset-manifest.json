@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/teogenesmoura/visualHaiku/static/css/main.5f361e03.chunk.css",
+    "main.js": "/teogenesmoura/visualHaiku/static/js/main.8d0b23bd.chunk.js",
+    "main.js.map": "/teogenesmoura/visualHaiku/static/js/main.8d0b23bd.chunk.js.map",
+    "runtime-main.js": "/teogenesmoura/visualHaiku/static/js/runtime-main.50db37cd.js",
+    "runtime-main.js.map": "/teogenesmoura/visualHaiku/static/js/runtime-main.50db37cd.js.map",
+    "static/js/2.b78f6dcf.chunk.js": "/teogenesmoura/visualHaiku/static/js/2.b78f6dcf.chunk.js",
+    "static/js/2.b78f6dcf.chunk.js.map": "/teogenesmoura/visualHaiku/static/js/2.b78f6dcf.chunk.js.map",
+    "index.html": "/teogenesmoura/visualHaiku/index.html",
+    "precache-manifest.8d9ac9060fe32cddffa0e62826e4ea0e.js": "/teogenesmoura/visualHaiku/precache-manifest.8d9ac9060fe32cddffa0e62826e4ea0e.js",
+    "service-worker.js": "/teogenesmoura/visualHaiku/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/teogenesmoura/visualHaiku/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b78f6dcf.chunk.js.LICENSE.txt": "/teogenesmoura/visualHaiku/static/js/2.b78f6dcf.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/teogenesmoura/visualHaiku/static/media/1.34ce0bd2.jpg",
+    "static/media/10.jpg": "/teogenesmoura/visualHaiku/static/media/10.0c85543a.jpg",
+    "static/media/11.jpg": "/teogenesmoura/visualHaiku/static/media/11.188fe35f.jpg",
+    "static/media/12.jpg": "/teogenesmoura/visualHaiku/static/media/12.f48d19d0.jpg",
+    "static/media/13.jpg": "/teogenesmoura/visualHaiku/static/media/13.9bad6dd8.jpg",
+    "static/media/14.jpg": "/teogenesmoura/visualHaiku/static/media/14.5c2a2585.jpg",
+    "static/media/15.jpg": "/teogenesmoura/visualHaiku/static/media/15.46335093.jpg",
+    "static/media/2.jpg": "/teogenesmoura/visualHaiku/static/media/2.01e59bcd.jpg",
+    "static/media/3.jpg": "/teogenesmoura/visualHaiku/static/media/3.6d92ec8a.jpg",
+    "static/media/4.jpg": "/teogenesmoura/visualHaiku/static/media/4.7598ff0a.jpg",
+    "static/media/5.jpg": "/teogenesmoura/visualHaiku/static/media/5.706149ae.jpg",
+    "static/media/6.jpg": "/teogenesmoura/visualHaiku/static/media/6.c6ab4f4a.jpg",
+    "static/media/7.jpg": "/teogenesmoura/visualHaiku/static/media/7.75fb95c0.jpg",
+    "static/media/8.jpg": "/teogenesmoura/visualHaiku/static/media/8.35c67376.jpg",
+    "static/media/9.jpg": "/teogenesmoura/visualHaiku/static/media/9.943099d6.jpg",
+    "static/media/OpenSans-Semibold.ttf": "/teogenesmoura/visualHaiku/static/media/OpenSans-Semibold.33f225b8.ttf",
+    "static/media/logo.svg": "/teogenesmoura/visualHaiku/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50db37cd.js",
+    "static/js/2.b78f6dcf.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8d0b23bd.chunk.js"
+  ]
+}
