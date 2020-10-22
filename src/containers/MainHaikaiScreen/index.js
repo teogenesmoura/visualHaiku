@@ -26,7 +26,7 @@ export default function MainHaikaiScreen() {
     const interval = setInterval(() => {
       setSeconds(seconds => seconds + 1);
       setHaikai(chooseHaikai())
-    }, 6000);
+    }, 8000);
     return () => clearInterval(interval);
   }, []);
 

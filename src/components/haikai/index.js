@@ -37,18 +37,18 @@ const useStyles = makeStyles((theme) => ({
 export default function Haikai(props){
   const classes = useStyles();
   const [data, setData] = useState({...props.data});
-  const [images, setImages] = useState('');
+  const [images, setImages] = useState(importAll(require.context('./../../assets/', false, /\.(png|jpe?g|svg)$/)));
   const [selectedNumbers, setSelectedNumbers] = useState([]);
+  let   numbersChosen = []
 
   useEffect(() => {
     setData(props.data);
-    setImages(importAll(require.context('./../../assets/', false, /\.(png|jpe?g|svg)$/)))
   }, [props.data])
 
   function importAll(r) {
-    let t_images = {};
+    let t_images = {}
     r.keys().map((item, index) => { t_images[item.replace('./', '')] = r(item); });
-    return t_images;
+    return t_images
   }
 
   function randomNumber() {
@@ -59,7 +59,12 @@ export default function Haikai(props){
   }
 
   function selectRandomImage() {
-    return randomNumber() + '.jpg';
+    let result = randomNumber()
+    while (numbersChosen.includes(result)){
+      result = randomNumber()
+    }
+    numbersChosen.push(result)
+    return result + '.jpg';
   }
 
 	return (
