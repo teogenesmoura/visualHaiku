@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "74ac7f61dadc1f527ed984555653aa60",
+    "revision": "8e1cb3b61dbad56ae1879cbd51a719ad",
     "url": "/teogenesmoura/visualHaiku/index.html"
   },
   {
-    "revision": "aeab72024196d74c506a",
+    "revision": "e4fe11f56d21a0a8bc12",
     "url": "/teogenesmoura/visualHaiku/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/teogenesmoura/visualHaiku/static/js/2.b78f6dcf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aeab72024196d74c506a",
-    "url": "/teogenesmoura/visualHaiku/static/js/main.8d0b23bd.chunk.js"
+    "revision": "e4fe11f56d21a0a8bc12",
+    "url": "/teogenesmoura/visualHaiku/static/js/main.a01e4069.chunk.js"
   },
   {
     "revision": "87f546f4481bc6fe3f09",
