@@ -6,7 +6,7 @@ export default function AppRouter(props){
   return (
     <Router>
       <Switch>
-        <Route exact path="/dynamic-haikai">
+        <Route exact path="/">
           <MainHaikaiScreen theme={props.theme}></MainHaikaiScreen>
         </Route>
       </Switch>
