@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0a6eb404748da546a3b265ea3cfbdf39",
+    "revision": "45222b48d4ee8d385964597eaf3d01d0",
     "url": "/visualHaiku/index.html"
   },
   {
-    "revision": "4698d31c5b37da874dfb",
+    "revision": "81587daa19a23abcabb1",
     "url": "/visualHaiku/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,28 +16,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/visualHaiku/static/js/2.b78f6dcf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4698d31c5b37da874dfb",
-    "url": "/visualHaiku/static/js/main.16752894.chunk.js"
+    "revision": "81587daa19a23abcabb1",
+    "url": "/visualHaiku/static/js/main.6b6dc5b0.chunk.js"
   },
   {
     "revision": "6ad11bf77b9ac2a0e78f",
     "url": "/visualHaiku/static/js/runtime-main.88b3161f.js"
   },
   {
-    "revision": "2389306db1ebf79a59f6f2840bf4b482",
-    "url": "/visualHaiku/static/media/1.2389306d.jpg"
+    "revision": "bc5aae474893f30502d90eb3863bd38c",
+    "url": "/visualHaiku/static/media/1.bc5aae47.jpg"
   },
   {
     "revision": "e244dbfac214043efebf44011c3337ce",
     "url": "/visualHaiku/static/media/10.e244dbfa.jpg"
   },
   {
-    "revision": "59bc1c966f730c6a7e677734b38f518e",
-    "url": "/visualHaiku/static/media/11.59bc1c96.jpg"
+    "revision": "e15908b76a14e9e51a4d11c33c0e322e",
+    "url": "/visualHaiku/static/media/11.e15908b7.jpg"
   },
   {
-    "revision": "bf0d047dc7fe460d07803c8a38045102",
-    "url": "/visualHaiku/static/media/12.bf0d047d.jpg"
+    "revision": "2083a41105865b9f98fa8605518abc87",
+    "url": "/visualHaiku/static/media/12.2083a411.jpg"
   },
   {
     "revision": "a8d307d02355d4444eef7dcb094fd020",
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/visualHaiku/static/media/6.14e894b3.jpg"
   },
   {
-    "revision": "83e1086e49099c8014b0f8f0b8f0f185",
-    "url": "/visualHaiku/static/media/7.83e1086e.jpg"
+    "revision": "56bc7578895a286fadb1aa4b0512da93",
+    "url": "/visualHaiku/static/media/7.56bc7578.jpg"
   },
   {
     "revision": "2b5a8fd36646d2c8a3d9bfaa6b6fb1e3",
